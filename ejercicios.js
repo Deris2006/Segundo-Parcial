@@ -176,9 +176,7 @@ mejorEstudiante();
 mostrarEstudiantesOrdenados();
 
 
-// ========================================
 // EJERCICIO 4: Carrito de Compras
-// ========================================
 
 let carrito = [];
 
@@ -299,9 +297,7 @@ modificarCantidad("Camisa", 3);
 mostrarResumen();
 
 
-// ========================================
 // EJERCICIO 5: Sistema de Citas Medicas
-// ========================================
 
 let doctores = [];
 let citas = [];
