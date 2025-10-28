@@ -37,7 +37,7 @@ calcularPromedio(misNotas);
 
 
 
-// EJERCICIO 2: Registro de Productos
+// EJERCICIO 2: Registro de Productos.
 
 let productos = []; // aqui guardamos los productos
 
